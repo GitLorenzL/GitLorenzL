@@ -1,5 +1,5 @@
 # Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
-I am ***Zhaoxun Liu*** 🙋🏻‍♂️, you can always call me ***Laszlo*** if this procounces more easily.
+I am ***Zhaoxun Liu*** 🙋🏻‍♂️, you can always call me ***Lorenz*** if this procounces more easily.
 
 Currently I'm a senior year student in [Beihang University, also known as BUAA](http://buaa.edu.cn/) pursuing ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
 
