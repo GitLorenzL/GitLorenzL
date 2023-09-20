@@ -1,7 +1,7 @@
 # Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
 I am ***Zhaoxun Liu*** 🙋🏻‍♂️, you can always call me ***Lorenz*** if this is pronounced more easily.
 
-Currently, I'm a first-year master's student in the [**Master of Science in Applied Computing (MScAC)**](https://mscac.utoronto.ca/) program at the Department of Computer Science, University of Toronto. Prior to this, I graduated from [Beihang University, also known as BUAA](http://buaa.edu.cn/) as a ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
+Currently, I'm a master's student in the [**Master of Science in Applied Computing (MScAC)**](https://mscac.utoronto.ca/) program at the Department of Computer Science, University of Toronto. Prior to this, I graduated from [Beihang University, also known as BUAA](http://buaa.edu.cn/) as a ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
 
 ![Lorenz's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=GitLorenzL&show_icons=true&theme=blue-green)
 
