@@ -6,9 +6,9 @@ Currently, I'm a master's student in the [**Master of Science in Applied Computi
 ------
 
 My research interests are in the broad area of Human-Computer Interaction (HCI):
-* Human-AI Interaction
-* Extended Reality
-* Gaming Technologies
+
+* Reinforcement learning in human-AI interaction
+* Interactive technologies in novel digital environments (extended reality, video games, etc.)
 
 My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and perspectives of humans to enhance their overall experience and well-being.
 
