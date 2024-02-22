@@ -1,5 +1,5 @@
 # Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
-I am ***Zhaoxun Liu*** 🙋🏻‍♂️, also going by ***Lorenz***.
+I am ***Lorenz Liu*** 🙋🏻‍♂️. 
 
 Currently, I'm a master's student in the [**Master of Science in Applied Computing (MScAC)**](https://mscac.utoronto.ca/) program at the Department of Computer Science, University of Toronto. Prior to this, I graduated from [Beihang University, also known as BUAA](http://buaa.edu.cn/) as a ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
 
