@@ -7,10 +7,10 @@ Currently, I'm a master's student in the [**Master of Science in Applied Computi
 
 My research interests are in the broad area of Human-Computer Interaction (HCI):
 
-* Reinforcement learning in human-AI interaction
-* Interactive technologies in novel digital environments (extended reality, video games, etc.)
+ - Human-AI Interaction (RLHF, Generative AI, Multimodal, Alignment, etc.)
+ - Novel Interactive Technologies (Text Entry, Manipulation, etc. )
 
-My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and perspectives of humans to enhance their overall experience and well-being.
+My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and safety of humans.
 
 My most interested academic communities: [ACM CHI](https://dl.acm.org/conference/chi), [NeurIPS](https://nips.cc/).
 
