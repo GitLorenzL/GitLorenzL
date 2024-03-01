@@ -1,32 +1,38 @@
-# Hi there! 👏👏🏻👏🏼👏🏽👏🏾👏🏿
-I am ***Lorenz Liu*** 🙋🏻‍♂️. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lorenz's Page</title>
+<style>
+  body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
 
-Currently, I'm a master's student in the [**Master of Science in Applied Computing (MScAC)**](https://mscac.utoronto.ca/) program at the Department of Computer Science, University of Toronto. Prior to this, I graduated from [Beihang University, also known as BUAA](http://buaa.edu.cn/) as a ***B.Eng.*** in [Computer Science](https://scse.buaa.edu.cn/).
+<div>
+  my name is <b style="color: darkblue;">lorenz</b>
+  <br>
+  i love exploring <b style="color: darkred;">human-ai interaction</b>
+  <br>
+  you can reach me at <u>lorenz [at] cs [dot] toronto [dot] edu</u>
+</div>
 
 ------
 
-My research interests are in the broad area of Human-Computer Interaction (HCI):
+<div>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31zpkynut64cdrjpfygah4cnn3um&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zpkynut64cdrjpfygah4cnn3um&cover_image=true&theme=novatorem&show_offline=true&background_color=171111&interchange=true&bar_color=81d8d0&bar_color_cover=true" alt="Spotify Profile">
+  </a>
+</div>
 
- - Human-AI Interaction (RLHF, Generative AI, Multimodal, Alignment, etc.)
- - Novel Interactive Technologies (Text Entry, Manipulation, etc. )
-
-My goal is to create intelligent interactive systems that prioritize the needs, capabilities, and safety of humans.
-
-My most interested academic communities: [ACM CHI](https://dl.acm.org/conference/chi), [NeurIPS](https://nips.cc/).
-
-## To know more about me… 🤔
-
-My [personal site](https://gitlorenzl.github.io/) and [resume](https://gitlorenzl.github.io/files/Zhaoxun_CV.pdf) are always public. ☑️
-
-## Get in touch! 📨
-
-Wanna…
-
-* say hello?
-* offer an opportunity?
-* ask for a helping hand?
-* report an issue?
-* discuss something?
-* ……?
-
-I am always friendly and open 😝, just come and [send](mailto:lorenz@cs.toronto.edu)!
+</body>
+</html>
