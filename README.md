@@ -1,7 +1,7 @@
 <div align="center">
   my name is <b style="color: darkblue;">lorenz</b>
   <br>
-  i love exploring <b style="color: darkred;">human-ai interaction</b>
+  i am an amateur cellist with a career in <b style="color: darkred;">human-ai interaction</b>. msc @ uoft cs.
   <br>
   you can reach me at <u>lorenz [at] cs [dot] toronto [dot] edu</u>
 </div>
