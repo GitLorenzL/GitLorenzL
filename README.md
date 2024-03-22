@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img width="36" height="36" src="./icon.svg" alt="Zhaoxun Lorenz Liu">
+    <img width="40" height="40" src="./icon.svg" alt="Zhaoxun Lorenz Liu">
   </div>
   my name is <b style="color: darkblue;">lorenz</b>. 
   <br>
