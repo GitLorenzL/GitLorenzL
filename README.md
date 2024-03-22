@@ -1,4 +1,7 @@
 <div align="center">
+  <div style="margin-bottom: 20px;">
+    <img width="70" height="70" src="./icon.svg" alt="Zhaoxun Lorenz Liu">
+  </div>
   my name is <b style="color: darkblue;">lorenz</b>. 
   <br>
   i am an amateur cellist with a career in <b style="color: darkred;">human-ai interaction</b>. 
