@@ -1,15 +1,15 @@
 <div align="center">
-  my name is <b style="color: darkblue;">lorenz</b>
+  my name is <b style="color: darkblue;">lorenz</b>. 
   <br>
   i am an amateur cellist with a career in <b style="color: darkred;">human-ai interaction</b>. msc @ uoft cs.
   <br>
-  you can reach me at <u>lorenz [at] cs [dot] toronto [dot] edu</u>
+  you can reach me at <u>lorenz [at] cs [dot] toronto [dot] edu</u>. 
 </div>
 
 ----
 
 <div align="center">
-  this is what i am listening (literally) right now
+  this is what i am listening (literally) right now. 
 </div>
 
 <div align="center">
