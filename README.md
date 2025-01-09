@@ -4,9 +4,9 @@
   </div>
   my name is <b style="color: darkblue;">lorenz</b>. 
   <br>
-  i am an amateur cellist with a career in <b style="color: darkred;">human-ai interaction</b>. 
+  i am an amateur cellist with a career in <b style="color: darkred;">machine learning</b>. 
   <br>
-  msc @ uoft cs. ml engineer @ uhn. 
+  ml team lead @ uhn. mscac alum @ uoft cs. 
   <br>
   you can reach me at <u>lorenz [at] cs [dot] toronto [dot] edu</u>. 
 </div>
